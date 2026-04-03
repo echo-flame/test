@@ -36,4 +36,4 @@ soup=BeautifulSoup(html,"lxml")
 ## CV模版
 1. 北师大中文CV模板：https://github.com/LeyuDame/BNUCV
 2. 西北工业大学中文CV模板：https://www.overleaf.com/latex/templates/npu-cv/mncqzxhvfzrx
-3. 武汉大学中文CV模板https://www.overleaf.com/latex/templates/whuwu-han-da-xue-zhong-wen-jian-li-mo-ban/dbkvxrqjmzpd
+3. 武汉大学中文CV模板：https://www.overleaf.com/latex/templates/whuwu-han-da-xue-zhong-wen-jian-li-mo-ban/dbkvxrqjmzpd
